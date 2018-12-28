@@ -152,7 +152,7 @@ Table Of Contents end
 
         /* END SECTIONS BACKGROUNDS */
 
-        /* 10. START GOOGLE MAP */
+        /* 10. START GOOGLE MAP 
 
         function initialize() {
             var mapOptions = {
