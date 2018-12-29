@@ -281,7 +281,7 @@ fieldset {
 .navbar-brand img {
     width: 150px;
     margin-left: 10px;
-    margin-top: -15px;
+    margin-top: -11px;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
@@ -2124,7 +2124,7 @@ ul.social-links li a:hover span {
 .footer-logo img {
     margin-bottom: 30px;
     width: 250px;
-    margin-left: 100px;
+    margin-left: -124px;
 }
 /*START FOOTER SOCIAL DESIGN*/
 
